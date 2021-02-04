@@ -1,2 +1,2 @@
 # python_tests
-Тут всякое разное crap
+there is different things
